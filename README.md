@@ -1,1 +1,1 @@
-## Ejercicios avanzados realizados para aprender sobre Python.
+Ejercicios avanzados realizados para aprender sobre Python.
