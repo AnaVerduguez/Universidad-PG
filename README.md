@@ -1,1 +1,1 @@
-## Ejercicios realizados en la materia Paradigmas de Programación
+## Ejercicios avanzados realizados para aprender sobre Python.
